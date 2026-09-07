@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tikshopcrm-cover.png" width="100%" alt="TikShopCRM">
+<img src="./banner.png" width="100%" alt="TikShopCRM">
 
 <br><br>
 
