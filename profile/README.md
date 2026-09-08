@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/tikshopcrm-cover.svg" width="100%" alt="TikShopCRM — екосистема продажів із соціальних мереж">
+  <img src="./banner.png" width="100%" alt="TikShopCRM — екосистема продажів із соціальних мереж">
 </div>
 
 <br>
