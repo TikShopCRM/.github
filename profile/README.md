@@ -5,10 +5,10 @@
 <br>
 
 <div align="center">
-  <a href="#-можливості"><strong>✦ Можливості</strong></a>&nbsp;&nbsp;&nbsp;
-  <a href="#-шлях-замовлення"><strong>⌁ Як це працює</strong></a>&nbsp;&nbsp;&nbsp;
-  <a href="#-рішення-для-продажів-із-соцмереж"><strong>◎ Про систему</strong></a>&nbsp;&nbsp;&nbsp;
-  <a href="#-замовити-tikshopcrm"><strong>↗ Замовити</strong></a>
+  <a href="#можливості"><strong>Можливості</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#як-працює-tikshopcrm"><strong>Як це працює</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#crm-для-продажів-із-соцмереж"><strong>Про систему</strong></a>&nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="#замовити-tikshopcrm"><strong>Замовити</strong></a>
 </div>
 
 <br>
@@ -27,36 +27,17 @@ TikShopCRM допомагає блогерам і малому бізнесу п
 
 Від першого повідомлення покупця — до відправлення та повторного продажу.
 
-✦ Можливості
+Можливості
 
-<table>
-  <tr>
-    <td width="50%" valign="top"><h3>🛒 Замовлення</h3><p>Усі заявки в одному місці: склад, сума, покупець і актуальний статус.</p></td>
-    <td width="50%" valign="top"><h3>📦 Доставка</h3><p>Оформлення відправлень, створення ТТН і відстеження без зайвих переходів.</p></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><h3>👥 Клієнти</h3><p>Контакти, покупки та історія взаємодії для якісного повторного продажу.</p></td>
-    <td width="50%" valign="top"><h3>📊 Аналітика</h3><p>Продажі, популярні товари та результати роботи в простому вигляді.</p></td>
-  </tr>
-</table>
+<img src="./features.svg" width="100%" alt="Можливості TikShopCRM: замовлення, доставка, клієнти й аналітика">
 
-⌁ Шлях замовлення
+Як працює TikShopCRM
 
-<table>
-  <tr align="center">
-    <td width="20%"><strong>01</strong><br><br>💬<br><strong>Заявка</strong><br><sub>із соцмережі</sub></td>
-    <td width="20%"><strong>02</strong><br><br>🛒<br><strong>Замовлення</strong><br><sub>товари й клієнт</sub></td>
-    <td width="20%"><strong>03</strong><br><br>✓<br><strong>Підтвердження</strong><br><sub>деталі та оплата</sub></td>
-    <td width="20%"><strong>04</strong><br><br>📦<br><strong>Доставка</strong><br><sub>ТТН і статус</sub></td>
-    <td width="20%"><strong>05</strong><br><br>♡<br><strong>Клієнт</strong><br><sub>історія покупок</sub></td>
-  </tr>
-</table>
+<img src="./order-flow.svg" width="100%" alt="Шлях замовлення в TikShopCRM">
 
-<div align="center">
-  <sub>Увесь шлях зберігається в TikShopCRM — від першого повідомлення до повторного продажу.</sub>
-</div>
+Увесь шлях зберігається в системі: від першої заявки із соцмережі до доставки, історії покупок і повторного продажу.
 
-◎ Рішення для продажів із соцмереж
+CRM для продажів із соцмереж
 
 TikShopCRM — це CRM-система для продажів у TikTok, Instagram і Telegram. Вона об’єднує заявки, каталог товарів, клієнтську базу, оплату, доставку та аналітику в одному інтерфейсі.
 
@@ -64,37 +45,14 @@ TikShopCRM — це CRM-система для продажів у TikTok, Instag
 
 TikShopCRM підійде для запуску Telegram-магазину, автоматизації продажів із прямих ефірів, обробки замовлень за фотографією товару та створення єдиного кабінету для команди.
 
-↗ Зараз у розробці
+Зараз у розробці
 
-<table>
-  <tr>
-    <td width="32%" valign="top">
-      <strong>ГОТОВО</strong><br><br>
-      ✅ Концепція продукту<br>
-      ✅ Основні сценарії<br>
-      ✅ Архітектура магазину
-    </td>
-    <td width="36%" valign="top">
-      <strong>РОБИМО ЗАРАЗ</strong><br><br>
-      🟠 Кабінет менеджера<br>
-      🟠 Робота із замовленнями<br>
-      🟠 Каталог товарів
-    </td>
-    <td width="32%" valign="top">
-      <strong>ДАЛІ</strong><br><br>
-      ○ Доставка та ТТН<br>
-      ○ Аналітика продажів<br>
-      ○ Промокоди й знижки
-    </td>
-  </tr>
-</table>
-
-<p align="center"><sub>Розробляємо продукт поетапно, спираючись на реальні сценарії продавців.</sub></p>
+<img src="./roadmap.svg" width="100%" alt="Поточний стан розробки TikShopCRM">
 
 <br>
 
 <div align="center">
-  <h2>↗ Замовити TikShopCRM</h2>
+  <h2>Замовити TikShopCRM</h2>
   <p><strong>Розкажіть, як ви зараз приймаєте замовлення — ми запропонуємо рішення під ваш процес продажу.</strong></p>
   <p>Обговоримо потрібні функції, інтеграції, терміни запуску та формат співпраці.</p>
   <a href="https://t.me/TikShopCRM"><strong>Написати в Telegram →</strong></a>
